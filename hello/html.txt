@@ -1,0 +1,6 @@
+<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
+<h1 style="color: #5e9ca0;">Welcome to <span style="color: #7F7FFF;">t3-vs-Heroku.py</span>!</h1>
+
+<p>This project was created by Thomas Reeves in order to learn how to set up Heroku servers and run Python Scripts.</p>
+
+<p>At the moment this page has very limited functionality. <br/> However, soon it will have something useful... Probably.</p>
