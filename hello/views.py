@@ -9,7 +9,7 @@ def index(request):
 	# file = open(os.path.r,'r')
 	# response = HttpResponse()
 	# text = file.read()
-	return HttpResponse(str(os.path.abspath + "Here"))
+	return HttpResponse(str(os.path.abspath()))
 def db(request):
 
     greeting = Greeting()
