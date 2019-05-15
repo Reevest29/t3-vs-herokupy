@@ -6,10 +6,10 @@ from .models import Greeting
 
 # Create your views here.
 def index(request):
-	# file = open(os.path.r,'r')
-	# response = HttpResponse()
-	# text = file.read()
-	return HttpResponse(str(os.getcwd()))
+	file = open("/app/hello/html.txt",'r')
+	response = HttpResponse()
+	text = file.read()
+	return HttpResponse(text)
 def db(request):
 
     greeting = Greeting()
