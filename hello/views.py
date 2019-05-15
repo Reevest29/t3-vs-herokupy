@@ -6,7 +6,7 @@ from .models import Greeting
 
 # Create your views here.
 def index(request):
-	file = open('hello\\html.txt','r')
+	file = open('html.txt','r')
 	response = HttpResponse()
 	text = file.read()
 	return HttpResponse(text)
