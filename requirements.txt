@@ -2,3 +2,10 @@ django
 gunicorn
 django-heroku
 requests
+pickle
+datetime
+os
+googleapiclient
+google_auth_oauthlib
+google
+apiclient
