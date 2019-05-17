@@ -7,14 +7,11 @@ cachetools==3.1.0
 certifi==2018.10.15
 chardet==3.0.4
 dj-database-url==0.5.0
-Django==2.2.1
-django-heroku==0.3.1
 future==0.16.0
 google-api-python-client==1.7.8
 google-auth==1.6.3
 google-auth-httplib2==0.0.3
 google-auth-oauthlib==0.3.0
-gunicorn==19.9.0
 httplib2==0.12.0
 idna==2.7
 macholib==1.11
@@ -26,8 +23,6 @@ pyasn1-modules==0.2.5
 PyInstaller==3.4
 pytz==2019.1
 pywin32-ctypes==0.2.0
-requests==2.20.0
-requests-oauthlib==1.0.0
 rsa==4.0
 simplejson==3.16.0
 six==1.12.0
