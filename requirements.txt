@@ -2,3 +2,12 @@ django
 gunicorn
 django-heroku
 requests
+pickle
+os.path
+__future__
+googleapiclient.discovery
+google_auth_oauthlib.flow
+google.auth.trasport.requests
+io
+apiclient.http
+datetime
